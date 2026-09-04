@@ -4,7 +4,7 @@
   <h1>Cyren</h1>
   
   <p>
-    An awesome assistant to keep you safe online 
+    An adaptive decentralized p2p messanging and walkey talkey app, supports offline & online communication.
   </p>
   
 <p>
