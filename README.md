@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="proto/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Cyren</h1>
+  <h1>PaperBit</h1>
   
   <p>
     An adaptive decentralized p2p messanging and walkey talkey app, supports offline & online communication.
